@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="css/styles.css">
+body {
+	background: tomato; 
+	font-family: "Open Sans";
+}
+
+main {
+	background: tomato;
+	height: 100vh; 
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.card {
+	background: white; 
+	border-radius: 5px; 
+	width: 50%; 
+	padding: 5%;
+	margin-top: 5%;
+}
+
+img	{
+	max-width: 100%;
+}
